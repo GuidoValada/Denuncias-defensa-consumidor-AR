@@ -7,10 +7,15 @@ Datos obtenidos de https://data.buenosaires.gob.ar/dataset/denuncias-defensa-con
 Agrupamiento de datos por:
 - [x] Cuantificacion de denuncias por rubro.
 - [x] Cuantificacion de motivos de denuncia por rubro.
-- [ ] Cuantificacion de denuncias por Comuna.
+- [x] Cuantificacion de denuncias por comuna.
+- [x] Cuantificacion de denuncias por rubro en cada comuna.
+- [x] Ordenamiento de los resultados numericos en orden ascendente.
 - [ ] Motivos predominantes por fecha.
 
 Exportado a archivo de texto
 
-- [denuncias_rubro.txt](https://github.com/GuidoValada/Denuncias-defensa-consumidor-AR/blob/master/denuncias_rubro.txt).
-- [denuncias_motivo.txt](https://github.com/GuidoValada/Denuncias-defensa-consumidor-AR/blob/master/denuncias_motivo.txt).
+- [denuncias_por rubro](https://github.com/GuidoValada/Denuncias-defensa-consumidor-AR/blob/master/denuncias_rubro.txt).
+- [denuncias_por motivos en rubros](https://github.com/GuidoValada/Denuncias-defensa-consumidor-AR/blob/master/denuncias_rubro_motivo.txt).
+- [denuncias por comuna](https://github.com/GuidoValada/Denuncias-defensa-consumidor-AR/blob/master/denuncias_comuna.txt).
+- [denuncias por rubro en cada comuna](https://github.com/GuidoValada/Denuncias-defensa-consumidor-AR/blob/master/denuncias_comuna_rubro.txt)
+
