@@ -26,7 +26,7 @@ def denuncias_rubro_motivo(denuncias):
         rubro = '-'.join(denuncia['rubro'].split())
         motivo = denuncia['motivo_denuncia']
         if  rubro not in rubros:
-            rubros[rubro] = {'CANTIDAD-DENUNCIAS':1}
+            rubros[rubro] = {'CANTIDAD-DENUNCIAS':0}
         else:
             rubros[rubro]['CANTIDAD-DENUNCIAS'] += 1
             if motivo not in rubros[rubro]:
@@ -45,23 +45,24 @@ def denuncias_rubro_motivo(denuncias):
 
 with open ('denuncias-defensa-del-consumidor.csv',newline='',encoding="utf8") as f:
 
-    denuncias =csv.DictReader(f)
+    denuncias =list(csv.DictReader(f))
 
 
     rubros_file = open('denuncias_rubro.txt','w')
     rubros_file.write(denuncias_rubro(denuncias))
     rubros_file.close()
 
-    f.close()
-with open ('denuncias-defensa-del-consumidor.csv',newline='',encoding="utf8") as f:
-
-    denuncias =csv.DictReader(f)
-
     motivo_file = open('denuncias_motivo.txt','w')
     motivo_file.write(denuncias_rubro_motivo(denuncias))
     motivo_file.close()
-
+    
     f.close()
+
+
+
+
+    
+
 
 
     

@@ -1,5 +1,5 @@
 ELECTRODOMÉSTICOS Y ARTEFACTOS PARA EL HOGAR
-CANTIDAD DENUNCIAS: 1557
+CANTIDAD DENUNCIAS: 1556
 Falta de cumplimento garantía posventa: 261
 Garantía de Bienes. Art 11  Ley 24.240   Reparación insatisfactoria: 94
 Producto no funciona: 412
@@ -28,7 +28,7 @@ Precios   Aumento no previsto o sin autorización contractual o legal: 1
 Cobro de gastos de entrega no informados o convenidos: 6
 
 SERVICIOS FINANCIEROS (TARJETAS DE CRÉDITO, BANCOS FINANCIERAS, ETC.)
-CANTIDAD DENUNCIAS: 4046
+CANTIDAD DENUNCIAS: 4045
 Problemas de fraude o estafa: 110
 Incumplimiento total de la prestación del servicio  contratado: 519
 Falta de procesamiento de baja del servicio/ gastos asociados: 768
@@ -51,7 +51,7 @@ Precios   Precio diferenciado por razones de extranjería: 2
 Prácticas Abusivas   Maltrato: 8
 
 RODADOS, AUTOMOTORES Y EMBARCACIONES
-CANTIDAD DENUNCIAS: 827
+CANTIDAD DENUNCIAS: 826
 Prácticas Abusivas   Venta  Engañosa: 47
 Falta de Entrega del bien: 68
 Problemas con la devolución del bien o el reembolso de sumas   Restricciones abusivas en las modalidades de devolución o reembolso: 12
@@ -82,7 +82,7 @@ Precios   Aumento no previsto o sin autorización contractual o legal: 4
 Falta o retención de Producto   Falta de stock: 2
 
 SERVICIOS DE COMUNICACIONES
-CANTIDAD DENUNCIAS: 4816
+CANTIDAD DENUNCIAS: 4815
 Incumplimiento total de la prestación del servicio  contratado: 1097
 Cumplimiento parcial o defectuoso de la prestación del servicio   Falta de o conectividad deficiente: 255
 Precios   Ausencia o falta de exhibición: 1
@@ -111,7 +111,7 @@ Cumplimiento parcial o defectuoso de la prestación del servicio   Se liga con ot
 Incumplimiento Problemas con la garantía posventa de la terminal celular: 4
 
 Servicios turísticos hoteles, hosterías, albergues, etc.
-CANTIDAD DENUNCIAS: 393
+CANTIDAD DENUNCIAS: 392
 Incumplimiento de Oferta  Promociones y/o Bonificaciones.  Art. 7 de la Ley 24.240: 33
 Incumplimiento total de la prestación del servicio  contratado: 108
 Falta de Información: 55
@@ -129,7 +129,7 @@ Precios   Aumento no previsto o sin autorización contractual o legal: 1
 Falta de entrega o emisión del documento de contratación del servicio: presupuestos, constancias de pagos,   solicitud de servicios, reglamento general de prestaciones.: 15
 
 SALUD
-CANTIDAD DENUNCIAS: 337
+CANTIDAD DENUNCIAS: 336
 Incumplimiento de Oferta  Promociones y/o Bonificaciones.  Art. 7 de la Ley 24.240: 12
 Cumplimiento parcial o defectuoso de la prestación del servicio   No reconocimiento del pago de la cuota o de copago: 20
 Baja de efectores y/o profesionales de la  cartilla de prestaciones médicas   No notificados con antelación debida : 6
@@ -155,7 +155,7 @@ Falta de prescripción de medicamentos por nombre o denominación genérica: 1
 Precios   Aumento no previsto o sin autorización contractual o legal: 1
 
 TELEFONÍA Y REDES
-CANTIDAD DENUNCIAS: 658
+CANTIDAD DENUNCIAS: 657
 Falta de cumplimento garantía posventa: 96
 Entrega Defectuosa   Producto dañado: 61
 Cláusulas abusivas o no convenidas: 48
@@ -184,7 +184,7 @@ Precios   Ausencia o falta de exhibición: 1
 Entrega Defectuosa   Faltante de partes o accesorios: 1
 
 ALIMENTOS Y BEBIDAS
-CANTIDAD DENUNCIAS: 350
+CANTIDAD DENUNCIAS: 349
 Falta de Información: 55
 Cláusulas abusivas o no convenidas: 40
 Falta de Entrega del bien: 58
@@ -213,7 +213,7 @@ Cobro de gastos de entrega no informados o convenidos: 8
 Falta o retención de Producto Faltante generalizado: 7
 
 MUEBLES
-CANTIDAD DENUNCIAS: 519
+CANTIDAD DENUNCIAS: 518
 Entrega Defectuosa   Faltante de partes o accesorios: 12
 Falta de Entrega del bien: 108
 Cláusulas abusivas o no convenidas: 21
@@ -240,7 +240,7 @@ Garantía de Bienes. Art 11  Ley 24.240   Falta de suministro de partes y accesor
 Falta de entrega del documento de venta del producto: factura, remito, ticket, etc.: 16
 
 TEXTIL, CALZADO Y MARROQUINERÍA
-CANTIDAD DENUNCIAS: 602
+CANTIDAD DENUNCIAS: 601
 Incumplimiento de Oferta  Promociones y/o Bonificaciones.  Art. 7 de la Ley 24.240: 17
 Falta de cumplimento garantía posventa: 94
 Falta de Entrega del bien: 92
@@ -269,7 +269,7 @@ Garantía de Bienes. Art 11  Ley 24.240   Reparación insatisfactoria: 3
 Precios   Precio excesivo: 1
 
 SERVICIOS PÚBLICOS DOMICILIARIOS
-CANTIDAD DENUNCIAS: 205
+CANTIDAD DENUNCIAS: 204
 Incumplimiento total de la prestación del servicio  contratado: 26
 Cumplimiento parcial o defectuoso de la prestación del servicio   Baja/Alta tensión en el suministro eléctrico: 12
 Cumplimiento parcial o defectuoso de la prestación del servicio   Interrupción o corte de suministro: 16
@@ -289,7 +289,7 @@ Cumplimiento parcial o defectuoso de la prestación del servicio   Falta de proce
 Cumplimiento parcial o defectuoso de la prestación del servicio   Agua turbia o contaminada: 1
 
 SERVICIOS DE TRANSPORTE TERRESTRE DE PASAJEROS Y CARGAS
-CANTIDAD DENUNCIAS: 571
+CANTIDAD DENUNCIAS: 570
 Prácticas Abusivas   Venta Engañosa: 4
 Incumplimiento total de la prestación del servicio  contratado: 155
 Cancelación o supresión de vuelos: 30
@@ -313,7 +313,7 @@ Falta de entrega o emisión del documento de contratación del servicio: presupues
 Lesión o muerte de pasajeros transportados: 1
 
 FARMACIA Y PRODUCTOS PARA LA SALUD
-CANTIDAD DENUNCIAS: 89
+CANTIDAD DENUNCIAS: 88
 Cláusulas abusivas o no convenidas: 8
 Problemas con la devolución del bien o el reembolso de sumas   Falta de restitución del valor de la compra: 2
 Demora en la entrega del bien: 6
@@ -333,7 +333,7 @@ Rechazo de la devolución del bien: 6
 Falta de entrega del documento de venta del producto: factura, remito, ticket, etc.: 1
 
 GESTORÍA Y SERVICIOS DE CONSULTORÍA
-CANTIDAD DENUNCIAS: 34
+CANTIDAD DENUNCIAS: 33
 Deficiente calidad en la prestación del servicio: 4
 No reconocimiento de pagos: 2
 Cláusulas abusivas o no convenidas: 1
@@ -344,7 +344,7 @@ Falta de Información: 4
 Falta de entrega o emisión del documento de contratación del servicio: presupuestos, constancias de pagos,   solicitud de servicios, reglamento general de prestaciones.: 2
 
 PELUQUERÍA, DEPILACIÓN, BELLEZA Y BIENESTAR FÍSICO
-CANTIDAD DENUNCIAS: 70
+CANTIDAD DENUNCIAS: 69
 Cumplimiento parcial o defectuoso de la prestación del servicio   Tareas o prestaciones pendientes: 3
 Deficiente calidad en la prestación del servicio: 16
 Incumplimiento total de la prestación del servicio  contratado: 19
@@ -359,7 +359,7 @@ Débitos y/o cobros indebidos: 7
 Falta de Información: 6
 
 ALQUILER DE VEHÍCULOS Y SERVICIO DE REMOLQUE
-CANTIDAD DENUNCIAS: 29
+CANTIDAD DENUNCIAS: 28
 Incumplimiento total de la prestación del servicio  contratado: 11
 Débitos y/o cobros indebidos: 5
 No reconocimiento de pagos: 2
@@ -371,7 +371,7 @@ Incumplimiento de Oferta  Promociones y/o Bonificaciones.  Art. 7 de la Ley 24.2
 Falta de entrega o emisión del documento de contratación del servicio: presupuestos, constancias de pagos,   solicitud de servicios, reglamento general de prestaciones.: 2
 
 SERVICIOS DE CONSTRUCCIÓN PARA EL HOGAR Y COMERCIALIZACIÓN DE INMUEBLES
-CANTIDAD DENUNCIAS: 174
+CANTIDAD DENUNCIAS: 173
 Cumplimiento parcial o defectuoso de la prestación del servicio   Tareas o prestaciones pendientes: 15
 Cumplimiento parcial o defectuoso de la prestación del servicio   Falta de elaboración del contrato: 1
 Deficiente calidad en la prestación del servicio: 46
@@ -389,7 +389,7 @@ Precios   Precio excesivo: 1
 Débitos y/o cobros indebidos: 5
 
 INFORMÁTICA
-CANTIDAD DENUNCIAS: 221
+CANTIDAD DENUNCIAS: 220
 Entrega Defectuosa   Producto dañado: 26
 Demora en la entrega del bien: 12
 Incumplimiento de Oferta  Promociones y/o Bonificaciones.  Art. 7 de la Ley 24.240: 7
@@ -412,7 +412,7 @@ Problemas de fraude o estafa: 1
 Cobro de gastos de entrega no informados o convenidos: 1
 
 REPARACIÓN DE RODADOS, AUTOMOTORES Y EMBARCACIONES
-CANTIDAD DENUNCIAS: 77
+CANTIDAD DENUNCIAS: 76
 Deficiente calidad en la prestación del servicio: 17
 Cláusulas abusivas o no convenidas: 8
 Débitos y/o cobros indebidos: 5
@@ -429,7 +429,7 @@ Prácticas Abusivas   Maltrato: 1
 Falta de entrega o emisión del documento de contratación del servicio: presupuestos, constancias de pagos,   solicitud de servicios, reglamento general de prestaciones.: 1
 
 SERVICIOS Y EVENTOS DE ESPARCIMIENTO CULTURALES Y/O DEPORTIVOS
-CANTIDAD DENUNCIAS: 263
+CANTIDAD DENUNCIAS: 262
 Incumplimiento de Oferta  Promociones y/o Bonificaciones.  Art. 7 de la Ley 24.240: 11
 Cumplimiento parcial o defectuoso de la prestación del servicio   Cambios de  ubicación de la localidad contratada: 6
 Incumplimiento total de la prestación del servicio  contratado: 77
@@ -449,7 +449,7 @@ Precios peajes   Aumento no previsto o sin autorización contractual o legal: 1
 Cumplimiento parcial o defectuoso de la prestación del servicio   Interrupción de las clases: 2
 
 ARTÍCULOS DE LECTURA Y AUDIOVISUALES
-CANTIDAD DENUNCIAS: 46
+CANTIDAD DENUNCIAS: 45
 Demora en la entrega del bien: 3
 Incumplimiento de Oferta Promociones y/o Bonificaciones.  Art. 7 de la Ley 24.240   : 3
 Cobro de gastos de entrega no informados o convenidos: 2
@@ -468,7 +468,7 @@ Rechazo de la devolución del bien: 3
 Falta de entrega del documento de venta del producto: factura, remito, ticket, etc.: 2
 
 SEGURIDAD
-CANTIDAD DENUNCIAS: 100
+CANTIDAD DENUNCIAS: 99
 Incumplimiento total de la prestación del servicio  contratado: 23
 Débitos y/o cobros indebidos: 34
 Cláusulas abusivas o no convenidas: 5
@@ -481,7 +481,7 @@ Falta de entrega o emisión del documento de contratación del servicio: presupues
 Prácticas Abusivas   Venta Engañosa: 1
 
 LAVANDERÍA, TINTORERÍA Y LIMPIEZA
-CANTIDAD DENUNCIAS: 17
+CANTIDAD DENUNCIAS: 16
 Cumplimiento parcial o defectuoso de la prestación del servicio   Extravio o rotura de prendas: 4
 Incumplimiento total de la prestación del servicio  contratado: 3
 Deficiente calidad en la prestación del servicio: 7
@@ -489,7 +489,7 @@ Cumplimiento parcial o defectuoso de la prestación del servicio   Demora en el c
 Incumplimiento de Garantía de Servicios: 1
 
 RELOJERÍA, JOYERÍA Y TABAQUERÍA
-CANTIDAD DENUNCIAS: 23
+CANTIDAD DENUNCIAS: 22
 Rechazo de la devolución del bien: 2
 Entrega Defectuosa   Producto dañado: 2
 Garantía de Bienes. Art 11  Ley 24.240   Falta de suministro de partes y accesorios: 1
@@ -503,7 +503,7 @@ Falta de Información: 2
 Cláusulas abusivas o no convenidas: 1
 
 DEPORTES Y RECREACIÓN
-CANTIDAD DENUNCIAS: 85
+CANTIDAD DENUNCIAS: 84
 Entrega Defectuosa   Producto dañado: 7
 Problemas con la devolución del bien o el reembolso de sumas   Restricciones abusivas en las modalidades de devolución o reembolso: 4
 Falta de Entrega del bien: 17
@@ -521,7 +521,7 @@ Falta de Información: 8
 Falta de entrega del documento de venta del producto: factura, remito, ticket, etc.: 2
 
 CONSTRUCCIÓN Y EQUIPAMIENTO DEL HOGAR
-CANTIDAD DENUNCIAS: 162
+CANTIDAD DENUNCIAS: 161
 Cláusulas abusivas o no convenidas: 11
 Producto no funciona: 23
 Falta de Entrega del bien: 34
@@ -541,7 +541,7 @@ Falta de Información: 8
 Cobro de gastos de entrega no informados o convenidos: 1
 
 SERVICIOS PARA EL AUTOMOTOR
-CANTIDAD DENUNCIAS: 35
+CANTIDAD DENUNCIAS: 34
 Incumplimiento de Oferta  Promociones y/o Bonificaciones.  Art. 7 de la Ley 24.240: 4
 Cláusulas abusivas o no convenidas: 3
 Incumplimiento total de la prestación del servicio  contratado: 9
@@ -552,7 +552,7 @@ Cumplimiento parcial o defectuoso de la prestación del servicio   Suministro ina
 Débitos y/o cobros indebidos: 1
 
 ENSEÑANZA
-CANTIDAD DENUNCIAS: 87
+CANTIDAD DENUNCIAS: 86
 Cumplimiento parcial o defectuoso de la prestación del servicio   Interrupción de las clases: 2
 Prácticas Abusivas   Venta Engañosa: 2
 Incumplimiento total de la prestación del servicio  contratado: 21
@@ -569,7 +569,7 @@ Cláusulas abusivas o no convenidas: 3
 Falta de entrega o emisión del documento de contratación del servicio: presupuestos, constancias de pagos,   solicitud de servicios, reglamento general de prestaciones.: 2
 
 BAZAR Y DECORACIÓN
-CANTIDAD DENUNCIAS: 63
+CANTIDAD DENUNCIAS: 62
 Entrega Defectuosa    Producto dañado: 5
 Entrega Defectuosa    Faltante de partes o accesorios: 2
 Incumplimiento de Oferta  Promociones y/o Bonificaciones.  Art. 7 de la Ley 24.240: 2
@@ -590,11 +590,11 @@ Falta de entrega del documento de venta del producto: factura, remito, ticket, e
 Cobro de gastos de entrega no informados o convenidos: 1
 
 PLANTAS Y JARDINERÍA
-CANTIDAD DENUNCIAS: 2
+CANTIDAD DENUNCIAS: 1
 Falta de Entrega del bien: 1
 
 PERFUMERÍA Y LIMPIEZA
-CANTIDAD DENUNCIAS: 49
+CANTIDAD DENUNCIAS: 48
 Incumplimiento de Oferta  Promociones y/o Bonificaciones.  Art. 7 de la Ley 24.240: 7
 Demora en la entrega del bien: 8
 Entrega Defectuosa   Producto dañado: 2
@@ -611,14 +611,14 @@ Falta de cumplimento garantía posventa: 2
 Cláusulas abusivas o no convenidas: 3
 
 COMBUSTIBLES
-CANTIDAD DENUNCIAS: 5
+CANTIDAD DENUNCIAS: 4
 Cobro de gastos de entrega no informados o convenidos: 1
 Problemas con la devolución del bien o el reembolso de sumas    Falta de restitución del valor de la compra: 1
 Entrega Defectuosa    Carga errónea de fluido: 1
 Cláusulas abusivas o no convenidas: 1
 
 LIBRERÍA, PAPELERÍA Y COTILLÓN
-CANTIDAD DENUNCIAS: 14
+CANTIDAD DENUNCIAS: 13
 Prácticas Abusivas   Venta  Engañosa: 1
 Falta de Información: 2
 Falta de Entrega del bien: 2
@@ -630,7 +630,7 @@ Incumplimiento de Oferta  Promociones y/o Bonificaciones.  Art. 7 de la Ley 24.2
 Producto no funciona: 1
 
 INSTRUMENTOS MUSICALES
-CANTIDAD DENUNCIAS: 16
+CANTIDAD DENUNCIAS: 15
 Producto no funciona: 3
 Falta o retención de Producto   Falta de stock: 1
 Entrega Defectuosa   Faltante de partes o accesorios: 1
@@ -642,7 +642,7 @@ Rechazo de la devolución del bien: 1
 Falta de cumplimento garantía posventa: 1
 
 GRAFICAS E IMPRESIONES
-CANTIDAD DENUNCIAS: 23
+CANTIDAD DENUNCIAS: 22
 Incumplimiento total de la prestación del servicio  contratado: 7
 Incumplimiento de Oferta  Promociones y/o Bonificaciones.  Art. 7 de la Ley 24.240: 1
 Deficiente calidad en la prestación del servicio: 3
@@ -652,7 +652,7 @@ Falta de entrega o emisión del documento de contratación del servicio: presupues
 Falta de Información: 2
 
 JUEGOS Y JUGUETES
-CANTIDAD DENUNCIAS: 70
+CANTIDAD DENUNCIAS: 69
 Rechazo de la devolución del bien: 7
 Incumplimiento de Oferta  Promociones y/o Bonificaciones.  Art. 7 de la Ley 24.240: 3
 Producto no funciona: 9
@@ -670,11 +670,11 @@ Falta de Información: 2
 Cobro de gastos de entrega no informados o convenidos: 1
 
 COMPRA POR INTERNET
-CANTIDAD DENUNCIAS: 213
+CANTIDAD DENUNCIAS: 212
 Incumplimiento del servicio: 212
 
 ELECTRÓNICA
-CANTIDAD DENUNCIAS: 109
+CANTIDAD DENUNCIAS: 108
 Incumplimiento de Oferta  Promociones y/o Bonificaciones.  Art. 7 de la Ley 24.240: 2
 Producto no funciona: 30
 Entrega Defectuosa   Producto dañado: 14
@@ -694,7 +694,7 @@ Falta o retención de Producto   Retención o  acaparamiento: 1
 Cobro de gastos de entrega no informados o convenidos: 2
 
 ESTACIONAMIENTOS Y GUARDAMUEBLES
-CANTIDAD DENUNCIAS: 49
+CANTIDAD DENUNCIAS: 48
 Incumplimiento total de la prestación del servicio  contratado: 16
 Falta de Información: 4
 Débitos y/o cobros indebidos: 4
@@ -704,24 +704,24 @@ Prácticas Abusivas   Maltrato: 2
 Falta de entrega o emisión del documento de contratación del servicio: presupuestos, constancias de pagos,   solicitud de servicios, reglamento general de prestaciones.: 3
 
 CUIDADO DE PERSONAS
-CANTIDAD DENUNCIAS: 5
+CANTIDAD DENUNCIAS: 4
 Deficiente calidad en la prestación del servicio: 2
 Falta de Información: 1
 Débitos y/o cobros indebidos: 1
 
 SERVICIOS FÚNEBRES
-CANTIDAD DENUNCIAS: 3
+CANTIDAD DENUNCIAS: 2
 Débitos y/o cobros indebidos: 2
 
 SERVICIO DE ADMINISTRACIÓN DE RUTAS Y AUTOPISTAS
-CANTIDAD DENUNCIAS: 8
+CANTIDAD DENUNCIAS: 7
 Incumplimiento total de la prestación del servicio  contratado: 3
 Débitos y/o cobros indebidos: 2
 Precios peajes   Precio excesivo: 1
 Falta de Información: 1
 
 MASCOTAS Y ACCESORIOS
-CANTIDAD DENUNCIAS: 11
+CANTIDAD DENUNCIAS: 10
 Falta de Información: 2
 Prácticas Abusivas   Venta  Engañosa: 1
 No reconocimiento de pagos: 1
@@ -733,6 +733,6 @@ Producto no funciona: 1
 Falta de cumplimento garantía posventa: 1
 
 SERVICIOS PARA MASCOTAS
-CANTIDAD DENUNCIAS: 2
+CANTIDAD DENUNCIAS: 1
 Débitos y/o cobros indebidos: 1
 
